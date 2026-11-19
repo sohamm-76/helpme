@@ -1,3 +1,5 @@
+// Write a program to solve the 0/1 Knapsack Problem using the Branch & Bound approach.
+// Compare its efficiency with dynamic programming.
 #include<iostream>
 #include<algorithm>
 #include<queue>

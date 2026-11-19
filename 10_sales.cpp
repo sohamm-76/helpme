@@ -1,3 +1,5 @@
+// Write a program to solve the traveling salesman problem and to print the path and the cost using LC
+// Branch and Bound.
     #include <iostream>
     #include <queue>
     #include <vector>

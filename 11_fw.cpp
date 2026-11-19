@@ -1,3 +1,5 @@
+// Implement Floyd-Warshall algorithm to find the shortest paths between all pairs of vertices in a
+// weighted graph using dynamic programming.
 #include<iostream>
 #include<climits>
 using namespace std;
